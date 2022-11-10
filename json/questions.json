@@ -9,7 +9,7 @@ data = [
             c: "Mother Board, Mouse, Teclado",
             d: "Internet, Servidor, Conexión FTP"
         },
-        correctAnswer: "Windows, Mac Os, Linux"
+        correctAnswer: "a"
     },
     {
         question: "¿Qué programa de ofimática utilizamos para escribir cartas?",
@@ -19,7 +19,7 @@ data = [
             c: "Internet",
             d: "Pluma y papel"
         },
-        correctAnswer: "Word"
+        correctAnswer: "a"
     },
     
     {
@@ -30,7 +30,7 @@ data = [
             c: "Photoshop",
             d: "Cualquiera de los 3 anteriores"
         },
-        correctAnswer: "Cualquiera de los 3 anteriores"
+        correctAnswer: "d"
     },
 
     {
@@ -41,7 +41,7 @@ data = [
             c: "Son los que te permiten abrir Internet",
             d: "Google, Yahoo, Gmail"
         },
-        correctAnswer: "Son los que permiten dar entrada al cpu"
+        correctAnswer: "b"
     },
 
     {
@@ -52,7 +52,7 @@ data = [
             c: "Permitir el libre acceso al cpu",
             d: "Sirven para que encienda correctamente una computadora"
         },
-        correctAnswer: "Permiten la entrada como la salida de procesos"
+        correctAnswer: "b"
     },
 
     {
@@ -63,7 +63,7 @@ data = [
             c: "Permiten conectar a la computadora con otras a través de una interfaz de red. Entre ellos se pueden mencionar los Modem, Tarjetas de Interfaz de Red,",
             d: "Esta no es"
         },
-        correctAnswer: "Proporcionan almacenamiento no volátil de datos y memoria."
+        correctAnswer: "b"
     },
 
     {
@@ -74,7 +74,7 @@ data = [
             c: "ENTER",
             d: "ALT+SHIFT"
         },
-        correctAnswer: "ALT+F4"
+        correctAnswer: "a"
     },
 
     {
@@ -85,7 +85,7 @@ data = [
             c: "SUMA(A1:A33)",
             d: "=SUMA(A1+A33)"
         },
-        correctAnswer: "=SUMA(A1:A33)"
+        correctAnswer: "b"
     },
 
     {
@@ -96,17 +96,17 @@ data = [
             c: "Windows + V",
             d: "Ctrl + Alt + Shift + Y"
         },
-        correctAnswer: "Windows + V"
+        correctAnswer: "c"
     },
 
     {
         question: "Julio necesita presentar una monografía y no sabe dónde encontrar información, ¿Qué le sugieres?",
         answers: {
             a: "Power Point",
-            b: "Microsoft Encarta",
+            b: "bajo el sillón",
             c: "Google",
             d: "No hacerla"
         },
-        correctAnswer: "Google"
+        correctAnswer: "c"
     }
 ];
